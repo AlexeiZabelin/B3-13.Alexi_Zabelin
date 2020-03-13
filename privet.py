@@ -1,4 +1,4 @@
- class Tag:
+ class Tag: 
     def __init__(self, tag, is_single=False, klass=None, **kwargs):
         self.tag =  tag
         self.text = ""
